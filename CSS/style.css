@@ -1,0 +1,22 @@
+
+.imagencampaña img{
+    width: 50%;
+    
+}
+.nav-link{
+    color: black;
+}
+.footer li a, a:visited{
+    display: block;
+    color: black;
+}
+.footer li a:hover{
+    color: rgb(2,105,129);
+}
+
+@media (prefers-color-scheme: dark) {
+    .body.dark-scheme {
+    height: 100%;
+    background: black;
+    color: white;
+   }}
